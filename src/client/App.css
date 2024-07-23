@@ -1,0 +1,10 @@
+button {
+    margin: 2px;
+    color: white;
+    display: block;  
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }

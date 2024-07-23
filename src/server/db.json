@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "name": "Mirva Vesanen",
+        "email": "mirva62@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/mirva-vesanen/",
+        "github": "https://github.com/MirvaNaivo"
+    },
+    "work_experience": [
+        {
+            "company": "Taimer Oy",
+            "date": "27.2.2024-6.6.2024",
+            "role": "Fullstack Developer Trainee",
+            "description": [
+                "I modernized the company's CRM software, which was previously updated over a year ago. ",
+                "I took initiave to diagnose and resolve complex issues independently, seeking expert advice only when necessary. ",
+                "I converted Javascript to Typescript to enhance code reliability and maintainability. ",
+                "In my work I significantly improved CRM's performance and usability by cleaning up legace code and integrating advanced features using React.js, PHP, MySQL and Ag Grid. ",
+                "Although primarily working independently, I effectively utilized the Scrum team's expertise to overcome challenging obstacles, demonstrating strong teamwork and communication skills."
+            ]
+        },
+        {
+            "company": "Nordea Bank Oyj",
+            "date": "28.1.2019-10.10.2023",
+            "role": " AML & Sanctions Processing Specialist and Team Lead Trainee",
+            "description": [
+                "In my position I assumed primary responsibility for daily operational challenges, enabling the senior leader to concentrate on strategic planning and long-term objectives. ",
+                "I managed day-to-day issues efficiently, ensuring seamless team operations. ",
+                "My leadership style is personable and accessible which allowed my team to approach me easily and without hesitation. ",
+                "I acted as a key communicator and 'translator' between IT and end-users, clarifying technical concepts and user requirements ", 
+                "to streamline software upgrades and process improvements. This role enhanced project outcomes and user satisfaction by ensuring that IT solutions met user needs effectively."
+            ]
+        },
+        {
+            "company": "Fysioline Fressi Oy",
+            "date": "2.5.2018-31.12.2018",
+            "role": " Personal Trainer and physiotherapist",
+            "description": [
+                "I worked with individuals and groups as a PT and physiotherapist. ",
+                "My specialities are weightlifting, bodyweight training and preventive physiotherapy"
+            ]
+        },
+        {
+            "company": "Tilitoimisto A. Karppinen Oy",
+            "date": "26.2.2013-31.8.2015",
+            "role": "Office secretary",
+            "description": [
+                "I worked in the reception and managed the accounting offices invoicing. ",
+                "I also did some accounting and account receivables for the customers."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "Buutti Oy",
+            "date": "7.12.2023-26.2.2024",
+            "field": "Cloud & Full Stack Development",
+            "description": [
+                "Education part of the recruitment program. In the education part I had recap of the techniques such as ",
+                "React Vite, Javascript, Typescript, Node, HTML, CSS, MySQL and testing with Jest. I also got to learn new skills such as Docker, ",
+                "Azure (App Services with and without Docker and Database Services with PostgreSQL Server and Node application) and GitLab CI/CD"
+            ]
+        },
+        {
+            "name": "Brainnest",
+            "date": "9.4.2023-6.5.2023",
+            "field": " Frontend Development Industry Training",
+            "description": "In the training I had a recap on HTML, CSS and Javascript."
+        },
+        {
+            "name": "Savonia Code Academy",
+            "date": "10.8.2021-31.12.2022",
+            "field": "Full Stack Development",
+            "description": [
+                "In the Code Academy I learned the basics of Fullstack Development. ",
+                "The techniques mostly used were HTML, CSS, C#, Javascript, Typescript, React.js, Node.js and MySQL. ",
+                "We also had a small introduction to Azure and AWS."
+            ]
+        },
+        {
+            "name": "Oulu University of Applied Sciences",
+            "date": "4.8.2015-31.7.2019",
+            "field": "Physiotherapy",
+            "description": ""
+        }
+    ],
+    "skills": [
+        {
+            "skill": "MySQL",
+            "level": "excellent"
+        },
+        {
+            "skill": "PostgreSQL",
+            "level": "excellent"
+        },
+        {
+            "skill": "NoSQL",
+            "level": "excellent"
+        },
+        {
+            "skill": "HTML",
+            "level": "excellent"
+        },
+        {
+            "skill": "CSS, SCSS",
+            "level": "excellent"
+        },
+        {
+            "skill": "React.js, Vite",
+            "level": "excellent"
+        },
+        {
+            "skill": "Node.js",
+            "level": "excellent"
+        },
+        {
+            "skill": "Javascript",
+            "level": "excellent"
+        },
+        {
+            "skill": "Typescript",
+            "level": "excellent"
+        },
+        {
+            "skill": "GitHub",
+            "level": "excellent"
+        },
+        {
+            "skill": "GitLab, Gitlab CI/CD",
+            "level": "competent"
+        },
+        {
+            "skill": "Docker",
+            "level": "competent"
+        },
+        {
+            "skill": "PHP",
+            "level": "competent"
+        },
+        {
+            "skill": "Asp.Net",
+            "level": "competent"
+        },
+        {
+            "skill": "Azure",
+            "level": "competent"
+        },
+        {
+            "skill": "MS Office",
+            "level": "excellent"
+        },
+        {
+            "skill": "Jira",
+            "level": "excellent"
+        },
+        {
+            "skill": "Scrum",
+            "level": "excellent"
+        },
+        {
+            "skill": "Windows, Linux Ubuntu",
+            "level": "excellent"
+        }
+    ],
+    "soft_skills": [
+        {
+            "skill": "Effective team collaboration and leadership",
+            "level": "excellent"
+        },
+        {
+            "skill": "Communication and organizational skills",
+            "level": "excellent"
+        },
+        {
+            "skill": "Independent Work",
+            "level": "excellent"
+        },
+        {
+            "skill": "Analytical and problem-solving abilities",
+            "level": "excellent"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Finnish",
+            "level": "mother"
+        },
+        {
+            "language": "English",
+            "level": "fluent"
+        }
+    ]
+}
