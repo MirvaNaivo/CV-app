@@ -1,0 +1,30 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "src/client/index.html",
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "dist"
+        }
+      },
+      {
+        "src": "src/server/main.ts",
+        "use": "@vercel/node",
+        "config": {
+          "runtime": "nodejs18.x",
+          "includeFiles": ["src/server/**/*.ts"]
+        }
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "src/server/$1"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "dist/$1"
+      }
+    ]
+  }
