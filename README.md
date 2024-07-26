@@ -1,1 +1,1 @@
-CV-app made with Vite-Express and JSON database.
+CV-app made with Vite-Express and JSON database. 
