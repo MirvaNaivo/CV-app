@@ -34,7 +34,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: ghcr.io/mirvanaivo/cv-app:latest
+          images: ghcr.io/mirvanaivo/cv-app
 
       - name: Build and push Docker image
         id: push
